@@ -8,6 +8,11 @@ public class CondicionalesCiclicas {
 		boolean activo = true;
 
 		if (!activo) {
+			
+			
+			
+			
+			
 			System.out.println("el alumno no esta activo");
 
 		} else if (activo) {
